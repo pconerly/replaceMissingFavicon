@@ -1,4 +1,3 @@
-
 /*
  * Rational Anarchist License
  *  Make all the laws you want;
@@ -33,7 +32,7 @@ $(document).ready(function() {
   });
 
   provideFavicon = function() {
-    var baseUri = new URI()
+    var baseUri = new URI();
     baseUri = baseUri.pathname('');
     baseUri = baseUri.fragment('');
     baseUri = baseUri.username('');
@@ -62,10 +61,3 @@ $(document).ready(function() {
   };
 
 });
-
-
-
-
-
-
-
