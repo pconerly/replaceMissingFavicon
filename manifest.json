@@ -1,11 +1,11 @@
 {
   "name" : "Replace Missing Favicon",
-  "version" : "0.4",
+  "version" : "0.4.2",
   "description" : "Provides a random gravatar for websites missing a favicon.",
   "page_action" :
   {
     "default_icon" : "replace_jinja_19.png",
-    "default_title" : "There's a 'sandwich' in this page!"
+    "default_title" : "Replace Missing Favicon"
   },
   "content_scripts" : [
     {
